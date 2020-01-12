@@ -22,3 +22,7 @@ As the description told, **xcpc-rank** provides a score based on the quality of 
 
 ## 2019 Results / 2019 年度评分结果
 ![XCPC 2019 Rank](xcpcrank2019.png)
+
+## 2018 Results (Test) / 2018 年度评分结果（测试）
+![XCPC 2018 Rank](xcpcrank2018.png)
+* 本年度成绩为测试用，在 2019 年度（一年后）进行评分，存在记忆偏差等影响分数的情况
