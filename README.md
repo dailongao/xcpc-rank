@@ -21,4 +21,4 @@ As the description told, **xcpc-rank** provides a score based on the quality of 
 请参考上面的链接。简单的说，我邀请了一批我认为专业的选手或裁判进行评分，同时我本人不进行评分。
 
 ## 2019 Results / 2019 年度评分结果
-Coming Soon...
+![XCPC 2019 Rank](xcpcrank2019.png)
